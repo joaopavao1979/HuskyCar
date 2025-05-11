@@ -1,0 +1,22 @@
+
+# Pastas e ficheiros temporários
+*.zip
+*.tmp
+*.bak
+*.log
+__pycache__/
+
+# Ficheiros do sistema
+.DS_Store
+Thumbs.db
+
+# Ficheiros de IDEs
+.vscode/
+.idea/
+
+# Ficheiros gerados por testes ou builds
+testes/videos/
+web/assets/imagens/
+
+# Jupyter Notebooks temporários
+*.ipynb_checkpoints
