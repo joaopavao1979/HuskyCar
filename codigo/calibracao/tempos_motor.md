@@ -1,0 +1,1 @@
+# Tempos de rotação para calibração (90º, 180º, 360º)
