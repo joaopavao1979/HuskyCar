@@ -1,4 +1,4 @@
-# Testes com Calibracao
+# Testes com Calibração
 
 **Projeto HuskyCar — Universidade dos Açores**  
 Autores: João Pavão, Tiago Martins  
@@ -9,7 +9,10 @@ Professores:
 
 ---
 
-Esta pasta contém exemplos e testes dedicados ao componente: **Calibracao**.
+Esta pasta contém exemplos e testes dedicados ao componente: **Calibração**.
+
+- ROVER_teste_360GRAUS
+
 
 Todos os códigos foram preparados no contexto da pós-graduação **PRIA — Programação, Robótica e Inteligência Artificial**, com foco em aprendizagem prática, robótica educativa e visão computacional com a HuskyLens.
 
