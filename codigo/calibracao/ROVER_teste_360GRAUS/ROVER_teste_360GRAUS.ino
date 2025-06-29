@@ -1,7 +1,7 @@
 // ============================================================================
 //              ROBÔ COM L298P – ROTAÇÃO CONTROLADA COM MENU SERIAL
 // ============================================================================
-// Autor: João Pavão (com apoio do ChatGPT)
+// Autor: João Pavão e Tiago Martins (com apoio do ChatGPT)
 // Descrição: Roda no lugar para a direita (sentido anti-horário), com passos de 30º.
 // Permite ajustar os parâmetros via Monitor Serial de forma interativa.
 // ============================================================================

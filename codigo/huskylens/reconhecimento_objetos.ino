@@ -1,1 +1,0 @@
-// Detetar objetos e reagir

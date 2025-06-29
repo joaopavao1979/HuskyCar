@@ -30,8 +30,8 @@ CONFIGURAÇÃO DA HUSKYLENS PARA MODO SEGUE-LINHA:
 #include <SoftwareSerial.h>
 #include "HUSKYLENS.h"
 
-// Cria conexão serial para HuskyLens nos pinos 10 (RX) e 11 (TX)
-SoftwareSerial huskySerial(10, 11);
+// Cria conexão serial para HuskyLens nos pinos 8 (RX) e 9 (TX)
+SoftwareSerial huskySerial(8, 9);
 HUSKYLENS huskylens;
 
 // Definição dos pinos do driver L298P
